@@ -1,7 +1,7 @@
 # This is ProjectEverest [EverestOS]
 ### Initialize local repository
 ```
-repo init -u https://github.com/EverestOS-AOSP/manifest -b 15 --git-lfs
+repo init -u https://github.com/BrightTwikling/EverestOS-AOSP_manifest -b 15_zf7 --git-lfs
 ```
 ### Sync up 
 ```
